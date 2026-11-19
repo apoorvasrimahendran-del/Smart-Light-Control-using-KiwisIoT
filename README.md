@@ -16,8 +16,8 @@ An IoT-based project using NodeMCU ESP8266 and an LDR sensor to detect room brig
 - LED status, room brightness, and LDR value are sent to KiwisIoT.
 # Project Images
 ![Circuit](light.jpeg)
-![Output1](lighton.png)
-![Output2](lightoff.png)
+![Output1]
+![Output2]
 # Source Code
 [View Source Code](light.ino)
 # Technologies Used
